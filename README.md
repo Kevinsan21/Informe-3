@@ -6,10 +6,9 @@
 .Vanessa Cayambe
 
 # 1. OBJETIVOS
-.Analizar y Estudiar el comportamiento y funcion que hacen las resistencias para que los circuitos
-puedan trabajar de una manera mas eficaz y eficiente.
+.Analizar las Caracteristicas de un circuito en serie.
 
-.Identificar que tipo de Resistencia implementar en circuitos
+.Aplicar todas la tecnicas conocidas hasta ahora para saber cual es el maximo de corriente que se le puede brindar a un circuito, segun las resistencias, diferencua de potencia y cualquier otro tipo de circunstancia que se nos presente en el circuito.
 
 .Analizar los circuitos en serie ya que estos posibilitan la suma del voltaje 
 
@@ -61,10 +60,9 @@ puedan trabajar de una manera mas eficaz y eficiente.
 
 
 # 5.CONCLUSIONES.
-
-Se logro un aprendizaje significativo de la materia debido a que se aprendio tanto en la parte teorica como practica que funcion tiene una 
-resistencia y porque son tan necesarias al momento de implementar un circuito ya que estas tienen la funcion como su nombre lo dice de resistir 
-ccantidades de voltajes para que no se quemen elemento como por ejemplo un Diodo led. 
+Se obtuvo un aprendizaje signnificativo acerca de las caracteristicas de un circuito en serie, dandonos cuenta que la corriente es cosntante
+en todo su recorrido, tambien que es de gran importancia saber cuanta corriente se puede aplicar al circuito meidante la lye de Ohm ya que 
+podriamos exder la cantidad de energia provocando que las resistencias se quemen por el exceso de amperaje.
 
 
 # 6.BIBLIOGRAFIA.
