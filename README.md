@@ -9,6 +9,8 @@
 .Analizar y Estudiar el comportamiento y funcion que hacen las resistencias para que los circuitos
 puedan trabajar de una manera mas eficaz y eficiente.
 
+.Identificar que tipo de Resistencia implementar en circuitos
+
 .Analizar los circuitos en serie ya que estos posibilitan la suma del voltaje 
 
 
@@ -54,13 +56,15 @@ puedan trabajar de una manera mas eficaz y eficiente.
 ![](https://github.com/Kevinsan21/Imagenes33333/blob/main/Circuito5_12.jpg)
 ![](https://github.com/Kevinsan21/Imagenes33333/blob/main/Circuito5_13.jpg)
 ![](https://github.com/Kevinsan21/Imagenes33333/blob/main/Circuito5_14.jpg)
+
 # 4.VIDEO.
 
 
 # 5.CONCLUSIONES.
-Se logro un aprendizaje significativo de la materia debido a que se aprendio tanto en la parte teorico como practica que funcion tiene una 
-resistencia y porque son tan necesarias al momento de implementar un circuito, estas cumplen la funcion como su nombre lo dice de resistir 
-corriente para que no se quemen elemento como por ejemplo un Diodo led. 
+
+Se logro un aprendizaje significativo de la materia debido a que se aprendio tanto en la parte teorica como practica que funcion tiene una 
+resistencia y porque son tan necesarias al momento de implementar un circuito ya que estas tienen la funcion como su nombre lo dice de resistir 
+ccantidades de voltajes para que no se quemen elemento como por ejemplo un Diodo led. 
 
 
 # 6.BIBLIOGRAFIA.
