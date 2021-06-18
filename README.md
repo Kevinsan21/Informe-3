@@ -13,7 +13,7 @@
 .Aplicar todas la tecnicas conocidas hasta ahora para saber cual es el maximo de corriente que se le puede brindar a un circuito 
  segun las resistencias, diferencua de potencia y cualquier otro tipo de circunstancia que se nos presente en el circuito.
 
-.Analizar los circuitos en serie ya que estos posibilitan la suma del voltaje 
+.Analizar los circuitos en serie ya que estos posibilitan la suma del voltaje.
 
 
 # 2. MARCO TEORICO
