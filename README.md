@@ -46,6 +46,12 @@
 ![image](https://user-images.githubusercontent.com/84421020/122525711-20360580-cfdf-11eb-936c-d7e25229fd66.png)
 ![image](https://user-images.githubusercontent.com/84421020/122525732-275d1380-cfdf-11eb-9080-fa676326871f.png)
 ![image](https://user-images.githubusercontent.com/84421020/122525750-2d52f480-cfdf-11eb-8c58-4fa89ae5fd46.png)
+![](https://github.com/Kevinsan21/Imagenes33333/blob/main/33_page-0001.jpg)
+![](https://github.com/Kevinsan21/Imagenes33333/blob/main/33_page-0002.jpg)
+![](https://github.com/Kevinsan21/Imagenes33333/blob/main/33_page-0003.jpg)
+![](https://github.com/Kevinsan21/Imagenes33333/blob/main/33_page-0004.jpg)
+![](https://github.com/Kevinsan21/Imagenes33333/blob/main/33_page-0005.jpg)
+![](https://github.com/Kevinsan21/Imagenes33333/blob/main/33_page-0006.jpg)
 ![](https://github.com/Kevinsan21/Imagenes33333/blob/main/Circuito5_01.jpg)
 ![](https://github.com/Kevinsan21/Imagenes33333/blob/main/Circuito5_02.jpg)
 ![](https://github.com/Kevinsan21/Imagenes33333/blob/main/Circuito5_03.jpg)
@@ -62,7 +68,7 @@
 ![](https://github.com/Kevinsan21/Imagenes33333/blob/main/Circuito5_14.jpg)
 
 # 4.VIDEO.
-
+https://www.youtube.com/watch?v=M2pe-KMlcNk&t=7s
 
 # 5.CONCLUSIONES.
 
