@@ -19,8 +19,7 @@
 ![image](https://user-images.githubusercontent.com/84421020/122345698-c1548b80-cf0d-11eb-8e1c-1e5957f74ffb.png)
 
 .Capitulo 6
-
-
+![](https://github.com/Kevinsan21/Imagenes33333/blob/main/Capitulo6.jpg)
 
 # 3. RESOLUCION DE EJERCICIOS
 
