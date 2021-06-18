@@ -1,10 +1,10 @@
 # INTEGRANTES
 
-.Kevin Barrera
+. Kevin Barrera
 
-.Jennifer Beltran
+. Jennifer Beltran
 
-.Vanessa Cayambe
+. Vanessa Cayambe
 
 # 1. OBJETIVOS
 
@@ -62,7 +62,7 @@
 ![](https://github.com/Kevinsan21/Imagenes33333/blob/main/Circuito5_14.jpg)
 
 # 4.VIDEO.
-https://www.youtube.com/watch?v=M2pe-KMlcNk
+
 
 # 5.CONCLUSIONES.
 
