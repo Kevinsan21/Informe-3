@@ -6,6 +6,9 @@
 .Vanessa Cayambe
 
 # 1. OBJETIVOS
+.Analizar y Estudiar el comportamiento y funcion que hacen las resistencias para que los circuitos
+puedan trabajar de una manera mas eficaz y eficiente.
+
 .Analizar los circuitos en serie ya que estos posibilitan la suma del voltaje 
 
 
@@ -55,7 +58,9 @@
 
 
 # 5.CONCLUSIONES.
-
+Se logro un aprendizaje significativo de la materia debido a que se aprendio tanto en la parte teorico como practica que funcion tiene una 
+resistencia y porque son tan necesarias al momento de implementar un circuito, estas cumplen la funcion como su nombre lo dice de resistir 
+corriente para que no se quemen elemento como por ejemplo un Diodo led. 
 
 
 # 6.BIBLIOGRAFIA.
