@@ -8,7 +8,7 @@
 
 # 1. OBJETIVOS
 
-.Analizar las caracteristicas de un circuito en paralelo.
+.Analizar las caracteristicas tanto de un circuito en paralelo como en serie.
 
 .Aplicar todas la tecnicas conocidas hasta ahora para saber cual es el maximo de corriente que se le puede brindar a un circuito 
  segun las resistencias, diferencua de potencia y cualquier otro tipo de circunstancia que se nos presente en el circuito.
