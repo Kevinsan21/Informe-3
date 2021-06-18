@@ -6,7 +6,7 @@
 .Vanessa Cayambe
 
 # 1. OBJETIVOS
-
+.Analizar los circuitos en serie ya que estos posibilitan la suma del voltaje 
 
 
 # 2. MARCO TEORICO
