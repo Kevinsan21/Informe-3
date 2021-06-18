@@ -67,8 +67,8 @@
 # 5.CONCLUSIONES.
 
 Se obtuvo un aprendizaje signnificativo acerca de las caracteristicas de un circuito en serie, dandonos cuenta que la corriente es cosntante
-en todo su recorrido, tambien que es de gran importancia saber cuanta corriente se puede aplicar al circuito meidante la lye de Ohm ya que 
-podriamos exder la cantidad de energia provocando que las resistencias se quemen por el exceso de amperaje.
+en todo su recorrido, tambien que es de gran importancia saber cuanta corriente se puede aplicar al circuito meidante la ley de Ohm ya que 
+podriamos exceder la cantidad de energia provocando que las resistencias se quemen por el exceso de amperaje.
 
 
 # 6.BIBLIOGRAFIA.
