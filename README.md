@@ -11,7 +11,7 @@
 .Analizar las caracteristicas tanto de un circuito en paralelo como en serie.
 
 .Aplicar todas la tecnicas conocidas hasta ahora para saber cual es el maximo de corriente que se le puede brindar a un circuito 
- segun las resistencias, diferencua de potencia y cualquier otro tipo de circunstancia que se nos presente en el circuito.
+ segun las resistencias, diferencia de potencia y cualquier otro tipo de circunstancia que se nos presente en el circuito.
 
 .Analizar los circuitos en serie ya que estos posibilitan la suma del voltaje.
 
@@ -72,7 +72,7 @@ https://www.youtube.com/watch?v=M2pe-KMlcNk&t=7s
 
 # 5.CONCLUSIONES.
 
-Se obtuvo un aprendizaje signnificativo acerca de las caracteristicas de un circuito en serie, dandonos cuenta que la corriente es cosntante
+Se obtuvo un aprendizaje significativo acerca de las caracteristicas de un circuito en serie, dandonos cuenta que la corriente es constante
 en todo su recorrido, tambien que es de gran importancia saber cuanta corriente se puede aplicar al circuito mediante la ley de Ohm ya que 
 podriamos exceder la cantidad de energia provocando que las resistencias se quemen por el exceso de amperaje.
 
