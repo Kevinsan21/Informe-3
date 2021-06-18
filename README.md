@@ -1,4 +1,5 @@
 # INTEGRANTES
+
 .Kevin Barrera
 
 .Jennifer Beltran
@@ -6,9 +7,11 @@
 .Vanessa Cayambe
 
 # 1. OBJETIVOS
+
 .Analizar las Caracteristicas de un circuito en serie.
 
-.Aplicar todas la tecnicas conocidas hasta ahora para saber cual es el maximo de corriente que se le puede brindar a un circuito, segun las resistencias, diferencua de potencia y cualquier otro tipo de circunstancia que se nos presente en el circuito.
+.Aplicar todas la tecnicas conocidas hasta ahora para saber cual es el maximo de corriente que se le puede brindar a un circuito 
+ segun las resistencias, diferencua de potencia y cualquier otro tipo de circunstancia que se nos presente en el circuito.
 
 .Analizar los circuitos en serie ya que estos posibilitan la suma del voltaje 
 
@@ -23,10 +26,12 @@
 ![image](https://user-images.githubusercontent.com/84421020/122345698-c1548b80-cf0d-11eb-8e1c-1e5957f74ffb.png)
 
 .Capitulo 6
+
 ![](https://github.com/Kevinsan21/Imagenes33333/blob/main/Capitulo6.jpg)
 ![](https://github.com/Kevinsan21/Imagenes33333/blob/main/Capitulo7.jpg)
 
 # 3. RESOLUCION DE EJERCICIOS
+
 ![image](https://user-images.githubusercontent.com/84421020/122525432-d816e300-cfde-11eb-8dd9-18a3ac31e29f.png)
 ![image](https://user-images.githubusercontent.com/84421020/122525466-dea55a80-cfde-11eb-8c1f-a46cf4f970b5.png)
 ![image](https://user-images.githubusercontent.com/84421020/122525488-e5cc6880-cfde-11eb-99d5-f04aea7d1a4c.png)
@@ -60,6 +65,7 @@
 
 
 # 5.CONCLUSIONES.
+
 Se obtuvo un aprendizaje signnificativo acerca de las caracteristicas de un circuito en serie, dandonos cuenta que la corriente es cosntante
 en todo su recorrido, tambien que es de gran importancia saber cuanta corriente se puede aplicar al circuito meidante la lye de Ohm ya que 
 podriamos exder la cantidad de energia provocando que las resistencias se quemen por el exceso de amperaje.
@@ -67,5 +73,5 @@ podriamos exder la cantidad de energia provocando que las resistencias se quemen
 
 # 6.BIBLIOGRAFIA.
 
-
+Robbins, A., & Oja, D. (s. f.). Analisis De Circuitos Electricos/ Circuit Analysis: Teoria Y Practica/ Theory and Practice (4 Pap/Cdr ed.) [Libro electrónico]. https://www.academia.edu/20334884/Analisis_de_circuitos_Teoria_y_practica
 
