@@ -76,6 +76,7 @@ Se obtuvo un aprendizaje significativo acerca de las caracteristicas de un circu
 en todo su recorrido, tambien que es de gran importancia saber cuanta corriente se puede aplicar al circuito mediante la ley de Ohm ya que 
 podriamos exceder la cantidad de energia provocando que las resistencias se quemen por el exceso de amperaje.
 
+Llegamos a la conclusion de que la  resistencia total del circuito en paralelo obtenido tiende a ser menor que la sumatoria de las resistencias del circuito.
 
 # 6.BIBLIOGRAFIA.
 
