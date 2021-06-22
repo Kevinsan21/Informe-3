@@ -12,6 +12,13 @@
 
 # 2. MARCO TEORICO
 
+.Capitulo 5
+![image](https://user-images.githubusercontent.com/84421020/122847498-6d5ef380-d2cd-11eb-9a48-234e86a6519c.png)
+![image](https://user-images.githubusercontent.com/84421020/122847509-7223a780-d2cd-11eb-9792-f9f3780331e6.png)
+![image](https://user-images.githubusercontent.com/84421020/122847515-78198880-d2cd-11eb-81ea-3255d253cc2e.png)
+![image](https://user-images.githubusercontent.com/84421020/122847523-7cde3c80-d2cd-11eb-93fe-6c98dfe40834.png)
+
+
 .Capitulo 6
 ![](https://github.com/Kevinsan21/Imagenes33333/blob/main/Capitulo6.jpg)
 ![](https://github.com/Kevinsan21/Imagenes33333/blob/main/Capitulo7.jpg)
