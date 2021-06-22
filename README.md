@@ -42,10 +42,9 @@
 ![](https://github.com/Kevinsan21/Imagenes33333/blob/main/Circuito5_13.jpg)
 ![](https://github.com/Kevinsan21/Imagenes33333/blob/main/Circuito5_14.jpg)
 
-# 4.RESPUESTAS A INTERROGANTES Y CALCULO DE ERROR
-
 # 5.VIDEO.
 
+https://www.youtube.com/watch?v=M2pe-KMlcNk
 
 # 6.CONCLUSIONES.
 
