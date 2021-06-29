@@ -67,7 +67,7 @@ https://www.youtube.com/watch?v=M2pe-KMlcNk
 
 # 6.CONCLUSIONES.
 
-Podemos concluir 
+Podemos concluir que en los circuitos en serie voltaje es el mismo en cada uno de los dispositivos y corresponde al voltaje de la fuente de alimentación.
 
 # 7.BIBLIOGRAFIA.
 
