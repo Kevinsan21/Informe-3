@@ -8,7 +8,7 @@
 
 # 1. OBJETIVOS
 
-
+  Analizar las caracteristicas del circuito en serie y en paralelo
 
 # 2. MARCO TEORICO
 
