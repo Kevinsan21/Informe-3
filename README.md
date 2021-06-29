@@ -67,7 +67,7 @@ https://www.youtube.com/watch?v=M2pe-KMlcNk
 
 # 6.CONCLUSIONES.
 
-
+Podemos concluir 
 
 # 7.BIBLIOGRAFIA.
 
